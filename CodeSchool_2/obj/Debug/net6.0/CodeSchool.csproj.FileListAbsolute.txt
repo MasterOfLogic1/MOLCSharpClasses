@@ -1,0 +1,15 @@
+C:\Users\PROGRESSIVE\Documents\CodeSchool\bin\Debug\net6.0\CodeSchool.exe
+C:\Users\PROGRESSIVE\Documents\CodeSchool\bin\Debug\net6.0\CodeSchool.deps.json
+C:\Users\PROGRESSIVE\Documents\CodeSchool\bin\Debug\net6.0\CodeSchool.runtimeconfig.json
+C:\Users\PROGRESSIVE\Documents\CodeSchool\bin\Debug\net6.0\CodeSchool.dll
+C:\Users\PROGRESSIVE\Documents\CodeSchool\bin\Debug\net6.0\CodeSchool.pdb
+C:\Users\PROGRESSIVE\Documents\CodeSchool\obj\Debug\net6.0\CodeSchool.csproj.AssemblyReference.cache
+C:\Users\PROGRESSIVE\Documents\CodeSchool\obj\Debug\net6.0\CodeSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROGRESSIVE\Documents\CodeSchool\obj\Debug\net6.0\CodeSchool.AssemblyInfoInputs.cache
+C:\Users\PROGRESSIVE\Documents\CodeSchool\obj\Debug\net6.0\CodeSchool.AssemblyInfo.cs
+C:\Users\PROGRESSIVE\Documents\CodeSchool\obj\Debug\net6.0\CodeSchool.csproj.CoreCompileInputs.cache
+C:\Users\PROGRESSIVE\Documents\CodeSchool\obj\Debug\net6.0\CodeSchool.dll
+C:\Users\PROGRESSIVE\Documents\CodeSchool\obj\Debug\net6.0\refint\CodeSchool.dll
+C:\Users\PROGRESSIVE\Documents\CodeSchool\obj\Debug\net6.0\CodeSchool.pdb
+C:\Users\PROGRESSIVE\Documents\CodeSchool\obj\Debug\net6.0\CodeSchool.genruntimeconfig.cache
+C:\Users\PROGRESSIVE\Documents\CodeSchool\obj\Debug\net6.0\ref\CodeSchool.dll
